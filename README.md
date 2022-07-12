@@ -1,1 +1,1 @@
-# ericschneider27.github.io
+# Python Notebook that goes into depth data analysis about the Titanic disaster
